@@ -34,3 +34,6 @@ squash_merge2
 rebase1
 
 rebase2
+
+def data_dictionary():
+    pass
